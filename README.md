@@ -1,5 +1,13 @@
 # AI Journey
 
+Hello Everyone, 
+My name is Muhammad Nadeem Noor, I am a software developer with 15 years of experience, in the age of AI 15 or 25 years of IT experience doesn't matters it only helps you to define scope and build strong understanding logically.
+
+Today I am starting my new journey with AI, here I am challenging myself to keep me alive and up to date with latest world of IT.
+
+I belive my  experience will be utilised once my base will be strong in AI and I will be able to build products using my knowledge and expertise but first let get started with 30 days challenge.
+
+
 30 Days Challenge
 
 Day	Task
